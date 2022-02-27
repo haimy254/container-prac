@@ -17,3 +17,17 @@ li{
 h3{
     font-size: 0.8em;
 }
+.container{
+    width: 60%;
+    max-width: 1200px;
+    margin: 0 2rem;
+    margin: 2rem 0;
+    display: flex;
+    justify-content: center;
+}
+.w-80{
+    width: 80%;
+}
+.w-full{
+    width: 100%;
+}
