@@ -1,4 +1,4 @@
-.{
+*{
     padding: 0;
 margin: 0;
 }
@@ -14,7 +14,7 @@ p,
 li{
     font: size 0.8em; ;    
 }
-h3{ https://haimy254.github.io/container-prac/
+h3{
     font-size: 0.8em;
 }
 .container{
